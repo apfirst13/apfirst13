@@ -8,14 +8,14 @@ A 2nd-year Computer Engineering student at King Mongkut's University of Technolo
 - Always eager to learn new technologies and apply them to real-world projects.
 
 ## Technical Skills
-- **Programming Languages:** Python, JavaScript, C/C++, Verilog
+- **Programming Languages:** Python, JavaScript, C/C++
 - **Backend & Databases:** Node.js, SQL
-- **Tools & Platforms:** Git, GitHub, Command Line Interfaces
+- **Tools & Platforms:** Git, GitHub
 
 ## What I'm Currently Working On
 - **Ticket Booking System:** Designing relational database schemas and exploring backend logic for reservation flows.
 - Continuously improving my understanding of algorithms and data structures.
 
 ## How to Reach Me
-- **Email:** [ใส่อีเมลของคุณที่นี่]
-- **LinkedIn:** [ใส่ลิงก์ LinkedIn ของคุณ ถ้ามี]
+- **Email:** [apiwatpan2549@gmail.com]
+- **LinkedIn:** [(https://www.linkedin.com/in/aphiwat-panthathanaphat-552b91371/)]
