@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi there, I'm Aphiwat Panthathanaphat
 
-<!--
-**apfirst13/apfirst13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+A 2nd-year Computer Engineering student at King Mongkut's University of Technology Thonburi (KMUTT) with a strong passion for backend development, system design, and problem-solving.
 
-Here are some ideas to get you started:
+## About Me
+- I am actively looking for a **Backend Developer Internship** opportunity.
+- I enjoy building systems, designing database schemas, and understanding the logic behind software and hardware operations.
+- Always eager to learn new technologies and apply them to real-world projects.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Technical Skills
+- **Programming Languages:** Python, JavaScript, C/C++, Verilog
+- **Backend & Databases:** Node.js, SQL
+- **Tools & Platforms:** Git, GitHub, Command Line Interfaces
+
+## What I'm Currently Working On
+- **Ticket Booking System:** Designing relational database schemas and exploring backend logic for reservation flows.
+- Continuously improving my understanding of algorithms and data structures.
+
+## How to Reach Me
+- **Email:** [ใส่อีเมลของคุณที่นี่]
+- **LinkedIn:** [ใส่ลิงก์ LinkedIn ของคุณ ถ้ามี]
