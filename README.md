@@ -1,6 +1,6 @@
 # Hi there, I'm Aphiwat Panthathanaphat
 
-A A rising 3rd-year Computer Engineering student at King Mongkut's University of Technology Thonburi (KMUTT) with a strong passion for backend development, system design, and problem-solving.
+A rising 3rd-year Computer Engineering student at King Mongkut's University of Technology Thonburi (KMUTT) with a strong passion for backend development, system design, and problem-solving.
 
 ## About Me
 - I am actively looking for a **Backend Developer Internship** opportunity.
